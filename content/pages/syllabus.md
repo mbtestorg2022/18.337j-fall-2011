@@ -36,7 +36,36 @@ There will be two homework assignments and one project that will take roughly on
 Grading
 -------
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| Homework | 45% |
-| Project | 55%
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Homework
+{{< tdclose >}}
+{{< tdopen >}}
+45%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Project
+{{< tdclose >}}
+{{< tdopen >}}
+55%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}

@@ -4,32 +4,349 @@ title: Calendar
 uid: 3c5eaaea-79e3-b04a-aa15-e66dcab007d2
 ---
 
-| LEC # | TOPICS | KEY DATES |
-| --- | --- | --- |
-| 1 | Introduction | &nbsp; |
-| 2 | Types of parallel computers | &nbsp; |
-| 3 | Parallel prefix | HW1 out |
-| 4 | More parallel prefix | &nbsp; |
-| 5 | [Lincoln Labs](http://www.ll.mit.edu/) view of the cloud; Intro to [MapReduce](http://en.wikipedia.org/wiki/MapReduce) {{< br >}}{{< br >}} Guest lecture by [Dr. Jeremy Kepner](http://www.mit.edu/~kepner/), MIT {{< br >}}{{< br >}}  | HW1 due |
-| 6 | MapReduce, as accumArray | HW2 out |
-| 7 | MapReduce, graph partitioning | &nbsp; |
-| 8 | MapReduce, more partitioning | &nbsp; |
-| Discussion session | Project discussion session | &nbsp; |
-| 9 | Guest lecture by Dr. Viral B. Shah | HW2 due |
-| 10 | Parallel linear algebra past and future | Project proposal due |
-| 11 | LU decomposition | &nbsp; |
-| 12 | Ring and hypercube topologies | &nbsp; |
-| 13 | Fast Fourier Transform (FFT) | &nbsp; |
-| 14 | FFT (cont.) | &nbsp; |
-| 15 | FFT (cont.) | &nbsp; |
-| 16 | FFT (cont.) | &nbsp; |
-| 17 | Parallel programming in Julia | &nbsp; |
-| 18 | Domain decomposition, PDEs | &nbsp; |
-| 19 | Finite differences, direct and iterative methods, preconditioned conjugate gradient | &nbsp; |
-| 20 | Schur complement method; Intro to sparse methods | Project progress update due |
-| 21 | Fast multipole method | &nbsp; |
-| 22 | Guest lecture by Dr. Toby Bloom, Director, Informatics, Genome Sequencing, Broad Institute | &nbsp; |
-| 23 | Student project presentations | &nbsp; |
-| 24 | Student project presentations (cont.) | &nbsp; |
-| 25 | Student project presentations (cont.) | &nbsp; |
-| 26 | Student project presentations (cont.) | Final project reports due
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+LEC #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Types of parallel computers
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Parallel prefix
+{{< tdclose >}}
+{{< tdopen >}}
+HW1 out
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+More parallel prefix
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+[Lincoln Labs](http://www.ll.mit.edu/) view of the cloud; Intro to [MapReduce](http://en.wikipedia.org/wiki/MapReduce)
+
+Guest lecture by [Dr. Jeremy Kepner](http://www.mit.edu/~kepner/), MIT
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+HW1 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+MapReduce, as accumArray
+{{< tdclose >}}
+{{< tdopen >}}
+HW2 out
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+MapReduce, graph partitioning
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+MapReduce, more partitioning
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Discussion session
+{{< tdclose >}}
+{{< tdopen >}}
+Project discussion session
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Guest lecture by Dr. Viral B. Shah
+{{< tdclose >}}
+{{< tdopen >}}
+HW2 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Parallel linear algebra past and future
+{{< tdclose >}}
+{{< tdopen >}}
+Project proposal due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+LU decomposition
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Ring and hypercube topologies
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Fast Fourier Transform (FFT)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+FFT (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+FFT (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+FFT (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+Parallel programming in Julia
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+Domain decomposition, PDEs
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19
+{{< tdclose >}}
+{{< tdopen >}}
+Finite differences, direct and iterative methods, preconditioned conjugate gradient
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+{{< tdopen >}}
+Schur complement method; Intro to sparse methods
+{{< tdclose >}}
+{{< tdopen >}}
+Project progress update due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21
+{{< tdclose >}}
+{{< tdopen >}}
+Fast multipole method
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+22
+{{< tdclose >}}
+{{< tdopen >}}
+Guest lecture by Dr. Toby Bloom, Director, Informatics, Genome Sequencing, Broad Institute
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+23
+{{< tdclose >}}
+{{< tdopen >}}
+Student project presentations
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+24
+{{< tdclose >}}
+{{< tdopen >}}
+Student project presentations (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+25
+{{< tdclose >}}
+{{< tdopen >}}
+Student project presentations (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+26
+{{< tdclose >}}
+{{< tdopen >}}
+Student project presentations (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+Final project reports due
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
