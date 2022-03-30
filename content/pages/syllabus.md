@@ -12,7 +12,7 @@ Lectures: 2 sessions / week, 1.5 hours / session
 Prerequisites
 -------------
 
-[_18.06 Linear Algebra_](/courses/18-06-linear-algebra-spring-2010/pages/index.htm) or [_18.701 Algebra I_](/courses/18-701-algebra-i-fall-2010/pages/index.htm).
+[_18.06 Linear Algebra_](/courses/18-06-linear-algebra-spring-2010) or [_18.701 Algebra I_](/courses/18-701-algebra-i-fall-2010).
 
 Description
 -----------
